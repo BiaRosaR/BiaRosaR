@@ -23,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biaRosaR&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="biaRosaR" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biaRosaR&show_icons=true&theme=tokyonight&locale=pt-br" alt="biaRosaR" /></p>
+
+![Snake animation](https://github.com/biaRosaR/biaRosaR/blob/output/github-contribution-grid-snake.svg)
+
