@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biaRosaR&show_icons=true&theme=tokyonight&locale=pt-br" alt="biaRosaR" /></p>
 
-![Snake animation](https://github.com/biaRosaR/biaRosaR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BiaRosaR/BiaRosaR/blob/output/github-contribution-grid-snake.svg)
 
