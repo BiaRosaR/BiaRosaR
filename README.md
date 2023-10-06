@@ -1,10 +1,11 @@
 <h1>Olá 👋🏻, eu sou a Bea!</h1>
 
-![github-header-image1](https://user-images.githubusercontent.com/92685862/224550574-4f4ecf86-6697-4f0a-80e9-3f4aae9d7b5d.png)
+![github-header-image](https://github.com/BiaRosaR/BiaRosaR/assets/125586731/07507777-248e-4a7e-b917-8a3078e71208)
 
 <h4>😄 Uma estudante de ciência da computação apaixonada por aprender <br>
 🌱 Atualmente eu estou aprendendo: Java, Pyhton e R<br>
 📫 beatriz.rosa@sptech.school </h4> 
+
 
 <h3 align="left">Você pode me achar aqui:</h3>
 <p align="left">
