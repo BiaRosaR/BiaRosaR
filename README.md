@@ -1,4 +1,4 @@
-<h1>Olá 👋🏻, eu sou a Bea!</h1>
+<h1>Olá 👋🏻, eu sou a Beatriz!</h1>
 
 ![github-header-image](https://github.com/BiaRosaR/BiaRosaR/assets/125586731/07507777-248e-4a7e-b917-8a3078e71208)
 
