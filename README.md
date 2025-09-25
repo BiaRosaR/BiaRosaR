@@ -2,9 +2,9 @@
 
 ![github-header-image](https://github.com/BiaRosaR/BiaRosaR/assets/125586731/07507777-248e-4a7e-b917-8a3078e71208)
 
-<h4>😄 Uma estudante de análise e desenvolvimento de sistemas apaixonada por aprender <br>
-🌱 Atualmente eu estou aprendendo: Java, Spring Boot e React<br>
-📫 beatriz.rocha@sptech.school </h4> 
+<h4>😄 Tecnólogo em análise e desenvolvimento de sistemas e apaixonada por aprender <br>
+🌱 Atualmente eu estou aprendendo: Python<br>
+📫 beatriz.rosaR@outlook.com.br </h4> 
 
 
 <h3 align="left">Você pode me achar aqui:</h3>
